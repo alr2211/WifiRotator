@@ -1,2 +1,2 @@
 # WifiRotator
-Antenna Rotator with network interface on a Mikrocontroller
+Rotator with network interface on a Mikrocontroller
